@@ -1,0 +1,13 @@
+﻿.footer
+{
+    background-color:rgb(31, 23, 23);
+}
+.logo{
+    height:50px;width:50px;
+}
+.footer a {
+    color:white;
+}
+.footer p {
+    color:gray;
+}
