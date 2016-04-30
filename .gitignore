@@ -4,3 +4,5 @@
 
 /CompanyWebsite/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll
 /CompanyWebsite/CompanyWebsite/obj/Debug
+/CompanyWebsite/CompanyWebsite/bin
+/CompanyWebsite/.vs/CompanyWebsite/v14/.suo
