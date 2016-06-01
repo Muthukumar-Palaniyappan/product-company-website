@@ -6,3 +6,8 @@
 /CompanyWebsite/CompanyWebsite/obj/Debug
 /CompanyWebsite/CompanyWebsite/bin
 /CompanyWebsite/.vs/CompanyWebsite/v14/.suo
+/CompanyWebsite/CompanyWebsite/bower_components
+/CompanyWebsite/CompanyWebsite/App/concat.min.js
+/node_modules/.bin
+/CompanyWebsite/CompanyWebsite/node_modules
+/node_modules

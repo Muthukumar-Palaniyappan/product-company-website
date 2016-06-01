@@ -5,6 +5,5 @@
         $scope.numberOfProds = 5;
     };
     webModule.controller('homeController', ['$scope', homeController]);
-
-
+    
 })();
